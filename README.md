@@ -32,6 +32,9 @@ You will need a set of each below for each [x] you make.
 
 ## Change Log
 
+- v0.2: Private Beta Candidate 2
+    * Adjusted takedown pin placement by moving it 1mm at 45 degrees towards the front of the frame
+
 - v0.1: Private Beta Candidate 1
     * Initial commit
     * Made changes to the frame to support the AP9, such as reciever placement, trigger group definition, reciever retention hole, and magazine placement.
