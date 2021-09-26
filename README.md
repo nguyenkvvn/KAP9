@@ -14,6 +14,16 @@ You will need a set of each below for each [x] you make.
 - x1 **Glock Magazine Release Button** - This part is to retain the magazine. You may use a printed button if you wish.
 
 ## Instructions
+1. Clean out all support artifacts within the fire-control unit pocket and reciever length.
+2. Insert the fire-control unit.
+3. Insert the safety lever through the fire-control unit.
+4. Secure the safety lever with an e-clip
+5. Insert the Glock magazine spring.
+6. Install the Glock magazine release.
+7. Attach the upper reciever and mate it to the frame.
+8. Pin the upper reciever in place.
+
+> Video Assembly Guide here: https://odysee.com/@nguyenkvvn:a/KAP9-Assembly:7
 
 ### Material: PLA (others materials will work) 
 * Print Temp: 235 C (for PLA) 
@@ -25,12 +35,10 @@ You will need a set of each below for each [x] you make.
 * Print Enclosure: Not required for PLA.
 * Supports: Any- Trees STRONGLY recommended for 1.0mm nozzles for easy removal
 
-1. Print the reciever using the suggested settings above, upside down at 99% infill.
-2. Remove all supports.
-3. Insert the trigger group. Then, slide in the safety lever, and secure it in place with the E-clip.
-4. Insert the upper reciever into the frame. Pin into place on the frame.
-
 ## Change Log
+
+- v1.0: Public Release Candidate 1
+    * Adjusted takedown pin placement by moving it 1mm at 45 degrees towards the front of the frame
 
 - v0.2: Private Beta Candidate 2
     * Adjusted takedown pin placement by moving it 1mm at 45 degrees towards the front of the frame
