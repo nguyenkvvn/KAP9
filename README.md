@@ -5,7 +5,9 @@ by nguyenkvvn
 original files by Freemendontask and CtrlPew
 
 ## Description
-This remix contains a partially-complete assembly of the Kimel AP-9 trigger group, and a frame compatible with the Kimel AP-9 parts kit. This model requires no modifications required to any of the parts in the kit, in contrast to the Tec-9 frame.
+This remix contains a partially-complete assembly (reference only) of the Kimel AP-9 trigger group, and a frame compatible with the Kimel AP-9 parts kit. This model requires no modifications required to any of the parts in the kit, in contrast to the Tec-9 frame.
+
+Included magazine catch geometry belongs to the original Tec9 release package by Freemendontask and CtrlPew.
 
 ## Materials Required
 You will need a set of each below for each [x] you make.
@@ -14,16 +16,7 @@ You will need a set of each below for each [x] you make.
 - x1 **Glock Magazine Release Button** - This part is to retain the magazine. You may use a printed button if you wish.
 
 ## Instructions
-1. Clean out all support artifacts within the fire-control unit pocket and reciever length.
-2. Insert the fire-control unit.
-3. Insert the safety lever through the fire-control unit.
-4. Secure the safety lever with an e-clip
-5. Insert the Glock magazine spring.
-6. Install the Glock magazine release.
-7. Attach the upper reciever and mate it to the frame.
-8. Pin the upper reciever in place.
-
-> Video Assembly Guide here: https://odysee.com/@nguyenkvvn:a/KAP9-Assembly:7
+Please see the attached rich-text PDF documentation for assembly instructions.
 
 ### Material: PLA (others materials will work) 
 * Print Temp: 235 C (for PLA) 
